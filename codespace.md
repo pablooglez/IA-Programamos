@@ -5,3 +5,4 @@ git clone https://huggingface.co/spaces/santizabe/Visual_Assistant
 ## TOKEN
 
 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
+
