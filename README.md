@@ -29,6 +29,8 @@ Este repositorio contiene el desarrollo de una herramienta de apoyo para persona
 
 ---
 
+https://huggingface.co/spaces/santizabe/image_risk_recognition
+
 ## 🧪 Prototipo actual
 
 Funcionalidad disponible:
