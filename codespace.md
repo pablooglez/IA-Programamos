@@ -1,0 +1,7 @@
+# When prompted for a password, use an access token with write permissions.
+
+git clone https://huggingface.co/spaces/santizabe/Visual_Assistant
+
+## TOKEN
+
+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
